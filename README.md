@@ -10,4 +10,4 @@ https://github.com/vishnukhokhar/backroads
 https://github.com/vishnukhokhar/homegroom
 
 
-#Admin Pannel - 
+#Admin Pannel - https://github.com/vishnukhokhar/AdminPanel
